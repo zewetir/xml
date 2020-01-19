@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfBooksClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BooksClass>
+    <Name>The Water Dancer</Name>
+    <Author>TA Nehisi Coates</Author>
+    <Publisher>Penguine</Publisher>
+  </BooksClass>
+</ArrayOfBooksClass>

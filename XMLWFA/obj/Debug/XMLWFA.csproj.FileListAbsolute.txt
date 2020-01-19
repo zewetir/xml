@@ -1,0 +1,10 @@
+C:\Users\sam\source\repos\XMLWFA\XMLWFA\bin\Debug\XMLWFA.exe.config
+C:\Users\sam\source\repos\XMLWFA\XMLWFA\bin\Debug\XMLWFA.exe
+C:\Users\sam\source\repos\XMLWFA\XMLWFA\bin\Debug\XMLWFA.pdb
+C:\Users\sam\source\repos\XMLWFA\XMLWFA\obj\Debug\XMLWFA.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\XMLWFA\XMLWFA\obj\Debug\XMLWFA.Books.resources
+C:\Users\sam\source\repos\XMLWFA\XMLWFA\obj\Debug\XMLWFA.Properties.Resources.resources
+C:\Users\sam\source\repos\XMLWFA\XMLWFA\obj\Debug\XMLWFA.csproj.GenerateResource.cache
+C:\Users\sam\source\repos\XMLWFA\XMLWFA\obj\Debug\XMLWFA.csproj.CoreCompileInputs.cache
+C:\Users\sam\source\repos\XMLWFA\XMLWFA\obj\Debug\XMLWFA.exe
+C:\Users\sam\source\repos\XMLWFA\XMLWFA\obj\Debug\XMLWFA.pdb
